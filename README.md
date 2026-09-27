@@ -25,9 +25,13 @@
 - Artificial Intelligence & Machine Learning
 - Software Development
 
-- ### 📫 Connect With Me
+### 📫 Connect With Me
 
-- GitHub: [madhuhasinidurgam](https://github.com/madhuhasinidurgam)
+📧 Email: madhuhasinidurgam@gmail.com
+
+💼 LinkedIn: [Madhu Hasini Durgam](https://www.linkedin.com/in/madhu-hasini-durgam/)
+
+💻 GitHub: [madhuhasinidurgam](https://github.com/madhuhasinidurgam)
 
 ---
 
